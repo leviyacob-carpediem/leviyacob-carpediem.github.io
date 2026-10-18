@@ -25,6 +25,23 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 </script>
  
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const grid = document.querySelector('.collections');
+  if (!grid || document.getElementById('exposicion-piedra-sol')) return;
+  grid.insertAdjacentHTML('beforeend', `
+    <button id="exposicion-piedra-sol" class="coll" type="button"
+      onclick="location.href='piedra-del-sol.html'"
+      style="background:linear-gradient(0deg,#061422ef,#06142233),url('https://commons.wikimedia.org/wiki/Special:FilePath/Piedra_del_Sol.png?width=960') center/cover">
+      <span class="top-tag">Exposición 06 · Disponible</span>
+      <h3>La Piedra del Sol</h3>
+      <p>Descubre sus símbolos, los Cinco Soles y los veinte signos. Ocho salas interactivas.</p>
+      <span class="coll-arrow">↗</span>
+    </button>
+  `);
+});
+</script>
+  
 <style>
 :root{--bg:#071522;--bg2:#0b2032;--panel:#0e2538;--panel2:#132d40;--border:#ffffff26;--muted:#b7c8d5;--gold:#e9c583;--gold2:#f7dfac;--white:#f8f3e9;--soft:#85b7ce;--shadow:0 30px 100px #0009;--r:22px}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;color:var(--white);background:var(--bg);font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;line-height:1.48;overflow-x:hidden}button,a{font:inherit}button{cursor:pointer}a{color:var(--gold2)}button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid #fff;outline-offset:4px}button:disabled{opacity:.42;cursor:not-allowed}img{max-width:100%;display:block}h1,h2,h3,p{margin-top:0}h1,h2,.serif{font-family:Georgia,"Times New Roman",serif;font-weight:500}h1{font-size:clamp(3rem,7vw,7rem);line-height:.97;letter-spacing:-.045em}h2{font-size:clamp(2rem,4.6vw,4rem);line-height:1.09;letter-spacing:-.03em}.wrap{width:min(1440px,calc(100% - 52px));margin:0 auto}.eyebrow{font-size:.7rem;letter-spacing:.27em;text-transform:uppercase;font-weight:750;color:var(--gold);margin-bottom:13px}.muted{color:var(--muted)}.small{font-size:.88rem}.caps{text-transform:uppercase;letter-spacing:.16em}.serif{font-size:1.3rem}.gold{color:var(--gold)}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}.btn{display:inline-flex;justify-content:center;align-items:center;gap:12px;border:1px solid #ffffff3b;border-radius:999px;padding:13px 21px;background:#142a3c;color:#f9f4ea;font-weight:750;text-decoration:none;transition:transform .18s,background .18s,border .18s}.btn:hover{transform:translateY(-2px);border-color:var(--gold)}.btn-gold{background:linear-gradient(110deg,#d7ac62,#ffdda0 55%,#d9ad61);color:#182130;border:0;box-shadow:0 8px 28px #cfaa6470}.btn-ghost{background:#091a2bba;color:var(--gold2);border-color:#d9ba8176}.btn-sm{font-size:.85rem;padding:11px 15px}.arrow{font-size:1.3rem;font-weight:500}.head{position:sticky;top:0;z-index:100;background:linear-gradient(110deg,#081725f5,#0a1a2cf4);border-bottom:1px solid #c9a97333;backdrop-filter:blur(16px)}.head-inner{display:flex;align-items:center;justify-content:space-between;gap:28px;min-height:83px}.brand{display:flex;align-items:center;gap:14px;color:#fff;text-decoration:none;min-width:0}.brand img{width:75px;height:51px;object-fit:cover;border-radius:7px}.brand b{display:block;font:600 1.35rem Georgia,serif;white-space:nowrap}.brand small{display:block;color:var(--gold);letter-spacing:.25em;font-size:.55rem;margin-top:4px;text-transform:uppercase}.links{display:flex;gap:8px;align-items:center}.links button{background:transparent;color:#d8e5ea;border:0;border-radius:12px;padding:12px 15px;font-size:.86rem}.links button:hover,.links button.active{background:#eac78119;color:var(--gold2)}.navmenu{display:none;color:#fff;border:1px solid #748b9c6a;background:#112b40;padding:8px 13px;border-radius:11px;font-size:1.55rem}.mobile-menu{display:none;background:#10283b;border-top:1px solid #bca47a3b;padding:12px 25px}.mobile-menu button{display:block;width:100%;padding:13px;background:transparent;color:#fff;border:0;text-align:left;border-bottom:1px solid #ffffff20}.reveal{animation:fadeUp .36s both}@keyframes fadeUp{from{opacity:.35;transform:translateY(9px)}to{opacity:1;transform:none}}.hidden{display:none!important}
 /* Homepage hero */
