@@ -69,6 +69,14 @@ document.addEventListener('DOMContentLoaded', () => {
 #rincon-guille .guille-retrato{width:110px;height:150px;object-fit:contain;float:right;margin:0 0 12px 24px}#rincon-guille:after{content:"";display:block;clear:both}@media(max-width:600px){#rincon-guille .guille-retrato{float:none;width:90px;height:120px;margin:0 0 16px}}
 #rincon-guille{margin:0 0 56px;padding:28px;border:1px solid #d7bc7470;border-radius:20px;background:linear-gradient(120deg,#10293c,#071522);color:#fff}#rincon-guille h2{margin:0 0 12px;color:#dfc583;font:400 clamp(1.6rem,4vw,2.2rem) Georgia,serif}#rincon-guille p{max-width:65ch;line-height:1.6}#rincon-guille .guille-privacidad{font-size:.85rem;color:#c1d0da}#rincon-guille .btn{min-height:48px;max-width:100%;white-space:normal}@media(max-width:600px){#rincon-guille{padding:22px 18px}#rincon-guille .btn{width:100%}}
 </style>
+
+<script id="integracion-egipto-monumental">
+document.addEventListener('DOMContentLoaded', () => {
+  const grid = document.querySelector('.collections');
+  if (!grid || document.getElementById('exposicion-egipto')) return;
+  grid.insertAdjacentHTML('beforeend', `<button id="exposicion-egipto" class="coll" type="button" onclick="location.href='egipto-monumental.html'" aria-label="Entrar a Egipto monumental: templos, tumbas y poder" style="background:linear-gradient(0deg,#061422f5,#06142255),url('https://commons.wikimedia.org/wiki/Special:FilePath/Abu_Simbel_Great_Temple.jpg?width=960') center/cover"><span class="top-tag">Exposición 07 · Disponible</span><h3>Egipto monumental</h3><p>Templos, tumbas y poder · Doce salas con Guille, fotografías y desafíos.</p><span class="coll-arrow">↗</span></button>`);
+});
+</script>
 </head>
 <body>
 <header class="head">
@@ -198,6 +206,7 @@ $('paSpeak').onclick=()=>{if(!('speechSynthesis'in window)){$('paVoice').textCon
 })();
 </script><dialog class="pa-lightbox" id="paLightbox" aria-labelledby="paLightTitle"><header><strong id="paLightTitle"></strong><button id="paLightClose" aria-label="Cerrar recreación ampliada">✕</button></header><img id="paLightImage" alt=""><p>Recreación artística generada con IA. Elementos y proporciones interpretativos; no es evidencia arqueológica exacta.</p></dialog></body>
 </html>
+
 
 
 
