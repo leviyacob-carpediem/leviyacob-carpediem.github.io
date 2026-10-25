@@ -85,6 +85,24 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 </script>
 <script id="integracion-roma-imperial">document.addEventListener('DOMContentLoaded',()=>{const grid=document.querySelector('.collections');if(!grid||document.getElementById('exposicion-roma'))return;grid.insertAdjacentHTML('beforeend',`<button id="exposicion-roma" class="coll" type="button" onclick="location.href='roma-imperial.html'" style="background:linear-gradient(0deg,#061422f5,#06142255),url('https://commons.wikimedia.org/wiki/Special:FilePath/Roman_Forum_HDR_Panorama.jpg?width=960') center/cover"><span class="top-tag">Exposición 09 · Disponible</span><h3>Roma Imperial</h3><p>Panorámica de la Roma Imperial · Doce salas, monumentos y desafíos con Guille.</p><span class="coll-arrow">↗</span></button>`)});</script>
+<!-- Exposición 10 · El escudo de España -->
+<style id="estilo-escudo-espana">
+#exposicion-escudo-espana{background:linear-gradient(135deg,#112d45,#071525);padding-top:210px;min-height:500px;text-decoration:none}
+#exposicion-escudo-espana .escudo-cover{position:absolute;top:44px;left:50%;transform:translateX(-50%);width:min(180px,calc(100% - 30px));height:180px;object-fit:contain;z-index:-2}
+#exposicion-escudo-espana .escudo-subtitle{display:block;color:#ffe0a3;font-size:.9rem;line-height:1.4;margin:4px 0}
+#exposicion-escudo-espana .coll-arrow{flex-shrink:0}
+@media(max-width:600px){#exposicion-escudo-espana{grid-column:1 / -1;min-height:460px;padding-top:210px}}
+</style>
+<script id="integracion-escudo-espana">
+document.addEventListener('DOMContentLoaded',()=>{
+ const grid=document.querySelector('.collections');
+ if(!grid||document.getElementById('exposicion-escudo-espana'))return;
+ const card=document.createElement('a');card.id='exposicion-escudo-espana';card.className='coll';card.href='escudo-espana.html';
+ card.setAttribute('aria-label','Entrar a El escudo de España: ocho símbolos, siglos de historia');
+ card.innerHTML=`<span class="top-tag">Exposición 10 · Disponible</span><img class="escudo-cover" src="assets/escudo-espana/escudo-espana.svg" width="180" height="180" loading="lazy" alt="Escudo actual de España"><h3>El escudo de España</h3><span class="escudo-subtitle">Ocho símbolos, siglos de historia.</span><p>Descubre los reinos históricos, las columnas de Hércules, la corona real y el significado de los elementos del escudo español mediante ocho estaciones interactivas y desafíos con Guille.</p><span class="coll-arrow" aria-hidden="true">↗</span>`;
+ grid.append(card);
+});
+</script>
 </head>
 <body>
 <header class="head">
