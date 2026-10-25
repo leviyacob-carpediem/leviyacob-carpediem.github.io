@@ -186,4 +186,13 @@ async function tryOriginalGuille(){
 go(0,false);
 tryOriginalGuille();
 </script>
+
+<style>.roma-gallery{display:flex;gap:10px;overflow:auto;padding:12px 0}.roma-gallery button{flex:0 0 135px;background:#10283a;color:#fff9ef;border:1px solid #dfbd7c;border-radius:12px;padding:8px}.roma-gallery img{width:100%;height:85px;object-fit:cover}#romaLightbox{background:#071522;color:#fff9ef;border:1px solid #dfbd7c;border-radius:18px;max-width:94vw;max-height:94dvh}#romaLightbox::backdrop{background:#000c}#romaLightbox img{max-height:70dvh;object-fit:contain;margin:auto}#romaLightbox p{overflow-wrap:anywhere}</style>
+<dialog id="romaLightbox"><button class="btn" id="romaClose">Cerrar ✕</button><img id="romaFull" alt=""><p id="romaCaption"></p></dialog>
+<script>
+const originalGo=go;
+go=function(n,scroll=true){if('speechSynthesis' in window)speechSynthesis.cancel();originalGo(n,scroll);const fig=document.querySelector('#roomContent .hero-photo');const open=document.createElement('button');open.className='btn slim';open.textContent='⤢ Ampliar fotografía';open.onclick=()=>openRoma(rooms[roomIndex].photo);fig.append(open);const gallery=document.createElement('div');gallery.className='roma-gallery';gallery.setAttribute('aria-label','Galería de monumentos romanos');gallery.innerHTML=Object.entries(images).map(([k,v])=>`<button type="button" data-roma-photo="${k}"><img loading="lazy" src="${imageUrl(v.file,240)}" alt="">${hEsc(v.name)}</button>`).join('');gallery.onclick=e=>{const b=e.target.closest('[data-roma-photo]');if(b)openRoma(b.dataset.romaPhoto)};fig.after(gallery)};
+function openRoma(k){const im=images[k];document.getElementById('romaFull').src=imageUrl(im.file,1400);document.getElementById('romaFull').alt=im.alt;document.getElementById('romaCaption').textContent=im.name+' · '+im.credit;document.getElementById('romaLightbox').showModal()}
+document.getElementById('romaClose').onclick=()=>document.getElementById('romaLightbox').close();go(0,false);
+</script>
 </body></html>
