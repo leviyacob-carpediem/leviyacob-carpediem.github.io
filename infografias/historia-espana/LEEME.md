@@ -1,5 +1,3 @@
 # Historia de España
 
-Carpeta preparada para materiales originales autorizados de esta colección. No contiene publicaciones todavía.
-
-Guarda aquí infografías, miniaturas y fotografías de apoyo. Nombres recomendados: `tema.webp`, `tema-mini.webp`, `foto-tema.webp`, `tema.pdf`. Registra títulos, rutas, créditos, fuentes y permisos en `../catalogo.json`; no edites el HTML. Consulta `../GUIA-DE-PUBLICACION.md`.
+Consulta `../catalogo.json` para los materiales publicados, créditos y descargas vigentes. Imágenes completas en WebP sin pérdida; archivos `-mini.webp` para miniaturas. Para añadir materiales sin editar el diseño, consulta `../GUIA-DE-PUBLICACION.md`. Créditos de esta incorporación: `CREDITOS-ESPANA.md`.
