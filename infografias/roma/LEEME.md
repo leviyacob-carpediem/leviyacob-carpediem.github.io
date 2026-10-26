@@ -1,5 +1,7 @@
-# Roma
+# Roma · Biblioteca Digital de Infografías
 
-Carpeta preparada para materiales originales autorizados de esta colección. No contiene publicaciones todavía.
+Los materiales publicados de esta colección se registran en `../catalogo.json`. Consulta allí los títulos, rutas de lectura, miniaturas, descargas y créditos vigentes.
 
-Guarda aquí infografías, miniaturas y fotografías de apoyo. Nombres recomendados: `tema.webp`, `tema-mini.webp`, `foto-tema.webp`, `tema.pdf`. Registra títulos, rutas, créditos, fuentes y permisos en `../catalogo.json`; no edites el HTML. Consulta `../GUIA-DE-PUBLICACION.md`.
+Las imágenes de lectura se guardan en WebP sin pérdida a la resolución original. Las copias terminadas en `-mini.webp` son miniaturas optimizadas; las descargas utilizan la imagen completa.
+
+Para añadir materiales autorizados sin editar el diseño, consulta `../GUIA-DE-PUBLICACION.md` y ejecuta el validador del catálogo. Las ilustraciones y composiciones tienen finalidad didáctica y no se presentan como fotografías documentales de la antigua Roma. Véase `CREDITOS-ROMA.md`.
