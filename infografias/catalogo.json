@@ -854,6 +854,638 @@
         "nombre": "Carpe-Diem-Roma-vibia-sabina.webp"
       },
       "publicado": true
+    },
+    {
+      "id": "espana-peninsula-iberica",
+      "coleccion": "historia-espana",
+      "titulo": "La península ibérica: espacio y diversidad",
+      "descripcion": "Un territorio de encuentro entre mares, montañas, ríos y pueblos.",
+      "alt": "La península ibérica: espacio y diversidad. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "geografía",
+        "península",
+        "mapa"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/peninsula-iberica.webp",
+      "miniatura": "infografias/historia-espana/peninsula-iberica-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/peninsula-iberica.webp",
+        "nombre": "Carpe-Diem-Espana-peninsula-iberica.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-espana-antes-espana",
+      "coleccion": "historia-espana",
+      "titulo": "España antes de España",
+      "descripcion": "De Altamira y la vida prehistórica a los pueblos prerromanos.",
+      "alt": "España antes de España. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "prehistoria",
+        "Altamira",
+        "prerromanos"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/espana-antes-espana.webp",
+      "miniatura": "infografias/historia-espana/espana-antes-espana-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/espana-antes-espana.webp",
+        "nombre": "Carpe-Diem-Espana-espana-antes-espana.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-altamira",
+      "coleccion": "historia-espana",
+      "titulo": "Altamira: primeros artistas prehistóricos",
+      "descripcion": "Arte rupestre, pigmentos, técnicas y lectura de las huellas del pasado.",
+      "alt": "Altamira: primeros artistas prehistóricos. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "Altamira",
+        "arte",
+        "prehistoria"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/altamira.webp",
+      "miniatura": "infografias/historia-espana/altamira-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/altamira.webp",
+        "nombre": "Carpe-Diem-Espana-altamira.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-iberos-celtas-tartessos",
+      "coleccion": "historia-espana",
+      "titulo": "Íberos, celtas y tartessos: mapa cultural",
+      "descripcion": "Localización, economía y diversidad de los pueblos prerromanos.",
+      "alt": "Íberos, celtas y tartessos: mapa cultural. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "íberos",
+        "celtas",
+        "tartessos",
+        "mapa"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/iberos-celtas-tartessos.webp",
+      "miniatura": "infografias/historia-espana/iberos-celtas-tartessos-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/iberos-celtas-tartessos.webp",
+        "nombre": "Carpe-Diem-Espana-iberos-celtas-tartessos.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-fenicios-griegos-cartagineses",
+      "coleccion": "historia-espana",
+      "titulo": "Fenicios, griegos y cartagineses en Iberia",
+      "descripcion": "Intercambios, colonización y conexiones mediterráneas de la península.",
+      "alt": "Fenicios, griegos y cartagineses en Iberia. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "fenicios",
+        "griegos",
+        "cartagineses",
+        "comercio"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/fenicios-griegos-cartagineses.webp",
+      "miniatura": "infografias/historia-espana/fenicios-griegos-cartagineses-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/fenicios-griegos-cartagineses.webp",
+        "nombre": "Carpe-Diem-Espana-fenicios-griegos-cartagineses.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-roma-conquista-hispania",
+      "coleccion": "historia-espana",
+      "titulo": "Roma conquista Hispania",
+      "descripcion": "Guerras, resistencias, etapas y transformaciones de la conquista romana.",
+      "alt": "Roma conquista Hispania. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "Roma",
+        "Hispania",
+        "conquista"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/roma-conquista-hispania.webp",
+      "miniatura": "infografias/historia-espana/roma-conquista-hispania-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/roma-conquista-hispania.webp",
+        "nombre": "Carpe-Diem-Espana-roma-conquista-hispania.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-hispania-romana",
+      "coleccion": "historia-espana",
+      "titulo": "Hispania romana: ciudades y legado",
+      "descripcion": "Urbanización, romanización, lengua, derecho e infraestructuras.",
+      "alt": "Hispania romana: ciudades y legado. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "Hispania",
+        "romanización",
+        "Roma"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/hispania-romana.webp",
+      "miniatura": "infografias/historia-espana/hispania-romana-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/hispania-romana.webp",
+        "nombre": "Carpe-Diem-Espana-hispania-romana.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-reino-visigodo",
+      "coleccion": "historia-espana",
+      "titulo": "El reino visigodo de Toledo",
+      "descripcion": "Organización política, cultura y un puente entre Roma y la Edad Media.",
+      "alt": "El reino visigodo de Toledo. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "visigodos",
+        "Toledo",
+        "Edad Media"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/reino-visigodo.webp",
+      "miniatura": "infografias/historia-espana/reino-visigodo-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/reino-visigodo.webp",
+        "nombre": "Carpe-Diem-Espana-reino-visigodo.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-al-andalus",
+      "coleccion": "historia-espana",
+      "titulo": "Al-Ándalus: conquista, cultura y legado",
+      "descripcion": "Sociedad, conocimiento, agricultura, arte y herencias culturales.",
+      "alt": "Al-Ándalus: conquista, cultura y legado. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "Al-Ándalus",
+        "islam",
+        "Edad Media"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/al-andalus.webp",
+      "miniatura": "infografias/historia-espana/al-andalus-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/al-andalus.webp",
+        "nombre": "Carpe-Diem-Espana-al-andalus.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-cordoba-medieval",
+      "coleccion": "historia-espana",
+      "titulo": "Córdoba medieval: esplendor del califato",
+      "descripcion": "Una capital de poder, conocimiento y vida urbana en la España medieval.",
+      "alt": "Córdoba medieval: esplendor del califato. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "Córdoba",
+        "califato",
+        "mezquita"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/cordoba-medieval.webp",
+      "miniatura": "infografias/historia-espana/cordoba-medieval-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/cordoba-medieval.webp",
+        "nombre": "Carpe-Diem-Espana-cordoba-medieval.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-reinos-cristianos-norte",
+      "coleccion": "historia-espana",
+      "titulo": "Los reinos cristianos del norte",
+      "descripcion": "Resistencia, expansión y organización de los reinos medievales.",
+      "alt": "Los reinos cristianos del norte. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "Asturias",
+        "León",
+        "Castilla",
+        "Navarra",
+        "Aragón"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/reinos-cristianos-norte.webp",
+      "miniatura": "infografias/historia-espana/reinos-cristianos-norte-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/reinos-cristianos-norte.webp",
+        "nombre": "Carpe-Diem-Espana-reinos-cristianos-norte.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-cristianos-musulmanes-judios",
+      "coleccion": "historia-espana",
+      "titulo": "Cristianos, musulmanes y judíos",
+      "descripcion": "Convivencia, intercambio y conflicto en la península medieval.",
+      "alt": "Cristianos, musulmanes y judíos. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "cristianos",
+        "musulmanes",
+        "judíos",
+        "convivencia"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/cristianos-musulmanes-judios.webp",
+      "miniatura": "infografias/historia-espana/cristianos-musulmanes-judios-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/cristianos-musulmanes-judios.webp",
+        "nombre": "Carpe-Diem-Espana-cristianos-musulmanes-judios.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-convivencia-medieval",
+      "coleccion": "historia-espana",
+      "titulo": "Cristianos, judíos y musulmanes: convivencia e intercambio",
+      "descripcion": "Lámina horizontal sobre encuentros, conocimientos compartidos y tensiones.",
+      "alt": "Cristianos, judíos y musulmanes: convivencia e intercambio. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "convivencia",
+        "intercambio",
+        "religiones"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/convivencia-medieval.webp",
+      "miniatura": "infografias/historia-espana/convivencia-medieval-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/convivencia-medieval.webp",
+        "nombre": "Carpe-Diem-Espana-convivencia-medieval.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-arte-arquitectura-medieval",
+      "coleccion": "historia-espana",
+      "titulo": "Arte y arquitectura medieval de España",
+      "descripcion": "Estilos, elementos arquitectónicos, materiales y obras destacadas.",
+      "alt": "Arte y arquitectura medieval de España. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "arte",
+        "arquitectura",
+        "románico",
+        "gótico",
+        "mudéjar"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/arte-arquitectura-medieval.webp",
+      "miniatura": "infografias/historia-espana/arte-arquitectura-medieval-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/arte-arquitectura-medieval.webp",
+        "nombre": "Carpe-Diem-Espana-arte-arquitectura-medieval.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-reconquista",
+      "coleccion": "historia-espana",
+      "titulo": "La Reconquista: mapa y momentos clave",
+      "descripcion": "Un recorrido visual por la expansión de los reinos cristianos medievales.",
+      "alt": "La Reconquista: mapa y momentos clave. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "Reconquista",
+        "mapa",
+        "Granada",
+        "Edad Media"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/reconquista.webp",
+      "miniatura": "infografias/historia-espana/reconquista-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/reconquista.webp",
+        "nombre": "Carpe-Diem-Espana-reconquista.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-coronas-castilla-aragon",
+      "coleccion": "historia-espana",
+      "titulo": "Las Coronas de Castilla y Aragón",
+      "descripcion": "Instituciones, territorios y diferencias entre las dos coronas.",
+      "alt": "Las Coronas de Castilla y Aragón. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "Castilla",
+        "Aragón",
+        "coronas"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/coronas-castilla-aragon.webp",
+      "miniatura": "infografias/historia-espana/coronas-castilla-aragon-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/coronas-castilla-aragon.webp",
+        "nombre": "Carpe-Diem-Espana-coronas-castilla-aragon.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-reyes-catolicos",
+      "coleccion": "historia-espana",
+      "titulo": "Los Reyes Católicos: Isabel y Fernando",
+      "descripcion": "Unidad, fe y cambios políticos en la transición a la Edad Moderna.",
+      "alt": "Los Reyes Católicos: Isabel y Fernando. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "Isabel",
+        "Fernando",
+        "Reyes Católicos"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/reyes-catolicos.webp",
+      "miniatura": "infografias/historia-espana/reyes-catolicos-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/reyes-catolicos.webp",
+        "nombre": "Carpe-Diem-Espana-reyes-catolicos.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-union-dinastica",
+      "coleccion": "historia-espana",
+      "titulo": "Los Reyes Católicos y la unión dinástica",
+      "descripcion": "Matrimonio, coronas y mantenimiento de leyes e instituciones propias.",
+      "alt": "Los Reyes Católicos y la unión dinástica. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "unión dinástica",
+        "Isabel",
+        "Fernando"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/union-dinastica.webp",
+      "miniatura": "infografias/historia-espana/union-dinastica-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/union-dinastica.webp",
+        "nombre": "Carpe-Diem-Espana-union-dinastica.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-1492",
+      "coleccion": "historia-espana",
+      "titulo": "1492: Granada, expulsión de los judíos y viaje de Colón",
+      "descripcion": "Hechos, cronología y consecuencias de un año de transformaciones.",
+      "alt": "1492: Granada, expulsión de los judíos y viaje de Colón. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "1492",
+        "Granada",
+        "judíos",
+        "Colón"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/1492.webp",
+      "miniatura": "infografias/historia-espana/1492-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/1492.webp",
+        "nombre": "Carpe-Diem-Espana-1492.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-juana-sucesion",
+      "coleccion": "historia-espana",
+      "titulo": "Juana I, Felipe el Hermoso y la sucesión",
+      "descripcion": "Matrimonios, herencias y conflictos sucesorios de la monarquía.",
+      "alt": "Juana I, Felipe el Hermoso y la sucesión. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "Juana I",
+        "Felipe",
+        "sucesión"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/juana-sucesion.webp",
+      "miniatura": "infografias/historia-espana/juana-sucesion-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/juana-sucesion.webp",
+        "nombre": "Carpe-Diem-Espana-juana-sucesion.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-juana-carlos",
+      "coleccion": "historia-espana",
+      "titulo": "Juana I y Carlos I: sucesión y cambio de época",
+      "descripcion": "Herencias familiares y transición hacia una monarquía compuesta.",
+      "alt": "Juana I y Carlos I: sucesión y cambio de época. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "Juana I",
+        "Carlos I",
+        "Trastámara",
+        "Habsburgo"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/juana-carlos.webp",
+      "miniatura": "infografias/historia-espana/juana-carlos-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/juana-carlos.webp",
+        "nombre": "Carpe-Diem-Espana-juana-carlos.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-carlos-i",
+      "coleccion": "historia-espana",
+      "titulo": "Carlos I: herencia y monarquía compuesta",
+      "descripcion": "Territorios, herencias y transición a la Edad Moderna.",
+      "alt": "Carlos I: herencia y monarquía compuesta. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "Carlos I",
+        "monarquía",
+        "Habsburgo"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/carlos-i.webp",
+      "miniatura": "infografias/historia-espana/carlos-i-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/carlos-i.webp",
+        "nombre": "Carpe-Diem-Espana-carlos-i.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "espana-espana-mexico",
+      "coleccion": "historia-espana",
+      "titulo": "De España a México: herencias y transformaciones",
+      "descripcion": "Lengua, instituciones, cultura, mestizaje y transformaciones de la identidad.",
+      "alt": "De España a México: herencias y transformaciones. Infografía del docente con textos e ilustraciones didácticas.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "México",
+        "España",
+        "herencias",
+        "identidad"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conservan textos y créditos del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de las épocas representadas."
+      },
+      "imagen": "infografias/historia-espana/espana-mexico.webp",
+      "miniatura": "infografias/historia-espana/espana-mexico-mini.webp",
+      "descarga": {
+        "ruta": "infografias/historia-espana/espana-mexico.webp",
+        "nombre": "Carpe-Diem-Espana-espana-mexico.webp"
+      },
+      "publicado": true
     }
   ]
 }
