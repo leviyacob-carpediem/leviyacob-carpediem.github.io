@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-25",
+  "colecciones": [
+    {
+      "id": "mesopotamia",
+      "titulo": "Mesopotamia",
+      "descripcion": "Entre el Tigris y el Éufrates: ciudades, escritura y primeros Estados.",
+      "carpeta": "infografias/mesopotamia/"
+    },
+    {
+      "id": "egipto",
+      "titulo": "Egipto",
+      "descripcion": "El Nilo, los faraones y el legado del antiguo Egipto.",
+      "carpeta": "infografias/egipto/"
+    },
+    {
+      "id": "israel-antiguo",
+      "titulo": "Israel antiguo",
+      "descripcion": "Sociedad, territorio, tradiciones y fuentes del mundo antiguo.",
+      "carpeta": "infografias/israel-antiguo/"
+    },
+    {
+      "id": "india",
+      "titulo": "India",
+      "descripcion": "Ciudades, creencias y transformaciones del subcontinente.",
+      "carpeta": "infografias/india/"
+    },
+    {
+      "id": "grecia",
+      "titulo": "Grecia",
+      "descripcion": "Polis, pensamiento, arte y vida en el mundo griego.",
+      "carpeta": "infografias/grecia/"
+    },
+    {
+      "id": "roma",
+      "titulo": "Roma",
+      "descripcion": "República, imperio, ingeniería y vida cotidiana.",
+      "carpeta": "infografias/roma/"
+    },
+    {
+      "id": "mesoamerica",
+      "titulo": "Mesoamérica",
+      "descripcion": "Diversidad cultural y espacios compartidos de la América antigua.",
+      "carpeta": "infografias/mesoamerica/"
+    },
+    {
+      "id": "cosmovision-mexica",
+      "titulo": "Cosmovisión mexica",
+      "descripcion": "Tiempo, universo y concepciones del mundo entre los mexicas.",
+      "carpeta": "infografias/cosmovision-mexica/"
+    },
+    {
+      "id": "mexicas",
+      "titulo": "Mexicas",
+      "descripcion": "Tenochtitlan, sociedad, poder y fuentes para conocer su historia.",
+      "carpeta": "infografias/mexicas/"
+    },
+    {
+      "id": "mayas",
+      "titulo": "Mayas",
+      "descripcion": "Ciudades, escritura y saberes de una civilización diversa.",
+      "carpeta": "infografias/mayas/"
+    },
+    {
+      "id": "sacrificios-rituales-prehispanicos",
+      "titulo": "Sacrificios rituales prehispánicos",
+      "descripcion": "Prácticas rituales en su contexto histórico, con un enfoque crítico y respetuoso.",
+      "carpeta": "infografias/sacrificios-rituales-prehispanicos/"
+    },
+    {
+      "id": "historia-espana",
+      "titulo": "Historia de España",
+      "descripcion": "Reinos, símbolos y procesos históricos a través del tiempo.",
+      "carpeta": "infografias/historia-espana/"
+    }
+  ],
+  "infografias": []
+}
