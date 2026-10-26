@@ -75,5 +75,785 @@
       "carpeta": "infografias/historia-espana/"
     }
   ],
-  "infografias": []
+  "infografias": [
+    {
+      "id": "roma-antigua-roma",
+      "coleccion": "roma",
+      "titulo": "Antigua Roma: una civilización que forjó un imperio",
+      "descripcion": "Panorama de las etapas, sociedad, gobierno y legado de la antigua Roma.",
+      "alt": "Antigua Roma: una civilización que forjó un imperio. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "monarquía",
+        "república",
+        "imperio",
+        "sociedad"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/antigua-roma.webp",
+      "miniatura": "infografias/roma/antigua-roma-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/antigua-roma.webp",
+        "nombre": "Carpe-Diem-Roma-antigua-roma.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-roma-en-el-tiempo",
+      "coleccion": "roma",
+      "titulo": "Roma en el tiempo",
+      "descripcion": "Recorrido visual por la monarquía, la república, el imperio y la continuidad romana.",
+      "alt": "Roma en el tiempo. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "cronología",
+        "etapas",
+        "Bizancio"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/roma-en-el-tiempo.webp",
+      "miniatura": "infografias/roma/roma-en-el-tiempo-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/roma-en-el-tiempo.webp",
+        "nombre": "Carpe-Diem-Roma-roma-en-el-tiempo.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-dioses-roma",
+      "coleccion": "roma",
+      "titulo": "Dioses de la antigua Roma",
+      "descripcion": "Religión, mitos y presencia de los dioses en la vida cotidiana romana.",
+      "alt": "Dioses de la antigua Roma. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "religión",
+        "mitología",
+        "Júpiter",
+        "Minerva"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/dioses-roma.webp",
+      "miniatura": "infografias/roma/dioses-roma-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/dioses-roma.webp",
+        "nombre": "Carpe-Diem-Roma-dioses-roma.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-legionario-romano",
+      "coleccion": "roma",
+      "titulo": "El legionario romano: disciplina, armas y organización",
+      "descripcion": "Equipo, formación, campamentos y organización de las legiones.",
+      "alt": "El legionario romano: disciplina, armas y organización. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "ejército",
+        "legiones",
+        "armas"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/legionario-romano.webp",
+      "miniatura": "infografias/roma/legionario-romano-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/legionario-romano.webp",
+        "nombre": "Carpe-Diem-Roma-legionario-romano.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-legionario-romano-equipo",
+      "coleccion": "roma",
+      "titulo": "El legionario romano: equipo y estrategias",
+      "descripcion": "Una segunda lámina sobre equipo, entrenamiento, organización y tácticas romanas.",
+      "alt": "El legionario romano: equipo y estrategias. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "ejército",
+        "legiones",
+        "disciplina",
+        "estrategias"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/legionario-romano-equipo.webp",
+      "miniatura": "infografias/roma/legionario-romano-equipo-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/legionario-romano-equipo.webp",
+        "nombre": "Carpe-Diem-Roma-legionario-romano-equipo.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-esclavitud-libertos-espartaco",
+      "coleccion": "roma",
+      "titulo": "Esclavitud, libertos y Espartaco",
+      "descripcion": "Desigualdad, trabajos, manumisión y resistencia en la sociedad romana.",
+      "alt": "Esclavitud, libertos y Espartaco. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "esclavitud",
+        "libertos",
+        "Espartaco"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/esclavitud-libertos-espartaco.webp",
+      "miniatura": "infografias/roma/esclavitud-libertos-espartaco-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/esclavitud-libertos-espartaco.webp",
+        "nombre": "Carpe-Diem-Roma-esclavitud-libertos-espartaco.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-julio-cesar-poder",
+      "coleccion": "roma",
+      "titulo": "Julio César: conquista, poder y cambio político",
+      "descripcion": "Momentos de la carrera política y militar de César y de la crisis republicana.",
+      "alt": "Julio César: conquista, poder y cambio político. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "César",
+        "Galia",
+        "república",
+        "Rubicón"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/julio-cesar-poder.webp",
+      "miniatura": "infografias/roma/julio-cesar-poder-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/julio-cesar-poder.webp",
+        "nombre": "Carpe-Diem-Roma-julio-cesar-poder.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-julio-cesar-biografia",
+      "coleccion": "roma",
+      "titulo": "Julio César: vida, reformas y legado",
+      "descripcion": "Línea del tiempo y síntesis biográfica de Julio César.",
+      "alt": "Julio César: vida, reformas y legado. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "César",
+        "biografía",
+        "reformas"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/julio-cesar-biografia.webp",
+      "miniatura": "infografias/roma/julio-cesar-biografia-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/julio-cesar-biografia.webp",
+        "nombre": "Carpe-Diem-Roma-julio-cesar-biografia.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-augusto-principado",
+      "coleccion": "roma",
+      "titulo": "Augusto y el Principado",
+      "descripcion": "Del ascenso de Octaviano al establecimiento del Principado y su legado.",
+      "alt": "Augusto y el Principado. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "Augusto",
+        "Octaviano",
+        "Principado",
+        "imperio"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/augusto-principado.webp",
+      "miniatura": "infografias/roma/augusto-principado-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/augusto-principado.webp",
+        "nombre": "Carpe-Diem-Roma-augusto-principado.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-coliseo-arquitectura",
+      "coleccion": "roma",
+      "titulo": "Coliseo y arquitectura romana",
+      "descripcion": "Monumentos, espacios públicos y soluciones arquitectónicas del mundo romano.",
+      "alt": "Coliseo y arquitectura romana. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "Coliseo",
+        "Panteón",
+        "Foro",
+        "arquitectura"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/coliseo-arquitectura.webp",
+      "miniatura": "infografias/roma/coliseo-arquitectura-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/coliseo-arquitectura.webp",
+        "nombre": "Carpe-Diem-Roma-coliseo-arquitectura.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-arco-hormigon",
+      "coleccion": "roma",
+      "titulo": "El arco y el hormigón romano",
+      "descripcion": "Claves de ingeniería: arcos, bóvedas, cúpulas y opus caementicium.",
+      "alt": "El arco y el hormigón romano. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "ingeniería",
+        "arco",
+        "hormigón",
+        "bóvedas"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/arco-hormigon.webp",
+      "miniatura": "infografias/roma/arco-hormigon-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/arco-hormigon.webp",
+        "nombre": "Carpe-Diem-Roma-arco-hormigon.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-ingenieria-imperio",
+      "coleccion": "roma",
+      "titulo": "La ingeniería que sostuvo un imperio",
+      "descripcion": "Caminos, acueductos, puentes, saneamiento, puertos y obras hidráulicas.",
+      "alt": "La ingeniería que sostuvo un imperio. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "ingeniería",
+        "calzadas",
+        "acueductos",
+        "cloacas"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/ingenieria-imperio.webp",
+      "miniatura": "infografias/roma/ingenieria-imperio-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/ingenieria-imperio.webp",
+        "nombre": "Carpe-Diem-Roma-ingenieria-imperio.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-arquitectura-romana",
+      "coleccion": "roma",
+      "titulo": "Arquitectura romana",
+      "descripcion": "Ingeniería, edificios, materiales y legado arquitectónico romano.",
+      "alt": "Arquitectura romana. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "arquitectura",
+        "templos",
+        "termas",
+        "anfiteatros"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/arquitectura-romana.webp",
+      "miniatura": "infografias/roma/arquitectura-romana-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/arquitectura-romana.webp",
+        "nombre": "Carpe-Diem-Roma-arquitectura-romana.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-vida-cotidiana",
+      "coleccion": "roma",
+      "titulo": "La vida cotidiana en la antigua Roma",
+      "descripcion": "Casas, familia, comida, educación, trabajo y entretenimiento.",
+      "alt": "La vida cotidiana en la antigua Roma. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "vida cotidiana",
+        "familia",
+        "domus",
+        "insulae"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/vida-cotidiana.webp",
+      "miniatura": "infografias/roma/vida-cotidiana-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/vida-cotidiana.webp",
+        "nombre": "Carpe-Diem-Roma-vida-cotidiana.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-derecho-romano",
+      "coleccion": "roma",
+      "titulo": "El derecho romano",
+      "descripcion": "Leyes, ciudadanía, instituciones jurídicas y legado del derecho romano.",
+      "alt": "El derecho romano. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "derecho",
+        "ciudadanía",
+        "leyes",
+        "Justinianeo"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/derecho-romano.webp",
+      "miniatura": "infografias/roma/derecho-romano-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/derecho-romano.webp",
+        "nombre": "Carpe-Diem-Roma-derecho-romano.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-cosmologia-creencias",
+      "coleccion": "roma",
+      "titulo": "Cosmología y creencias religiosas de la antigua Roma",
+      "descripcion": "Una lámina sobre religión, concepciones del universo y creencias sobre el más allá.",
+      "alt": "Cosmología y creencias religiosas de la antigua Roma. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "religión",
+        "cosmología",
+        "creencias",
+        "dioses"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/cosmologia-creencias.webp",
+      "miniatura": "infografias/roma/cosmologia-creencias-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/cosmologia-creencias.webp",
+        "nombre": "Carpe-Diem-Roma-cosmologia-creencias.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-cristianismo-roma",
+      "coleccion": "roma",
+      "titulo": "Cristianismo y Roma",
+      "descripcion": "De minoría perseguida a religión imperial: cambios, emperadores y legado.",
+      "alt": "Cristianismo y Roma. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "cristianismo",
+        "Constantino",
+        "Teodosio",
+        "religión"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/cristianismo-roma.webp",
+      "miniatura": "infografias/roma/cristianismo-roma-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/cristianismo-roma.webp",
+        "nombre": "Carpe-Diem-Roma-cristianismo-roma.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-guerras-expansion",
+      "coleccion": "roma",
+      "titulo": "Antigua Roma: guerras, expansión y pérdida de territorio",
+      "descripcion": "Mapas, conflictos, ejército y transformaciones territoriales de Roma.",
+      "alt": "Antigua Roma: guerras, expansión y pérdida de territorio. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "guerras",
+        "expansión",
+        "territorio",
+        "ejército"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/guerras-expansion.webp",
+      "miniatura": "infografias/roma/guerras-expansion-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/guerras-expansion.webp",
+        "nombre": "Carpe-Diem-Roma-guerras-expansion.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-ingenio-romano",
+      "coleccion": "roma",
+      "titulo": "Antigua Roma: ingenio que construyó un imperio",
+      "descripcion": "Recursos visuales sobre innovación, tecnología, ciencia e ingeniería.",
+      "alt": "Antigua Roma: ingenio que construyó un imperio. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "innovación",
+        "tecnología",
+        "ciencia",
+        "ingeniería"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/ingenio-romano.webp",
+      "miniatura": "infografias/roma/ingenio-romano-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/ingenio-romano.webp",
+        "nombre": "Carpe-Diem-Roma-ingenio-romano.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-grandes-personajes",
+      "coleccion": "roma",
+      "titulo": "Grandes personajes de una civilización: antigua Roma",
+      "descripcion": "Selección de personajes y referencias culturales presentada en el material del docente.",
+      "alt": "Grandes personajes de una civilización: antigua Roma. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "personajes",
+        "biografías",
+        "cultura"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/grandes-personajes.webp",
+      "miniatura": "infografias/roma/grandes-personajes-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/grandes-personajes.webp",
+        "nombre": "Carpe-Diem-Roma-grandes-personajes.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-horacio-carpe-diem",
+      "coleccion": "roma",
+      "titulo": "Horacio: Carpe Diem · Odas",
+      "descripcion": "Contexto, estructura y reflexión sobre la invitación de Horacio a vivir el presente.",
+      "alt": "Horacio: Carpe Diem · Odas. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "Horacio",
+        "Carpe Diem",
+        "literatura",
+        "poesía"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/horacio-carpe-diem.webp",
+      "miniatura": "infografias/roma/horacio-carpe-diem-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/horacio-carpe-diem.webp",
+        "nombre": "Carpe-Diem-Roma-horacio-carpe-diem.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-frases-romanas",
+      "coleccion": "roma",
+      "titulo": "Frases romanas más populares",
+      "descripcion": "Expresiones latinas y su presencia en la cultura actual.",
+      "alt": "Frases romanas más populares. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "latín",
+        "frases",
+        "SPQR",
+        "Carpe Diem"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/frases-romanas.webp",
+      "miniatura": "infografias/roma/frases-romanas-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/frases-romanas.webp",
+        "nombre": "Carpe-Diem-Roma-frases-romanas.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-roma-fuentes",
+      "coleccion": "roma",
+      "titulo": "Roma contada por los romanos",
+      "descripcion": "Autores, inscripciones, monedas y arqueología como fuentes para estudiar Roma.",
+      "alt": "Roma contada por los romanos. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "fuentes",
+        "Tito Livio",
+        "Tácito",
+        "Suetonio",
+        "arqueología"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/roma-fuentes.webp",
+      "miniatura": "infografias/roma/roma-fuentes-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/roma-fuentes.webp",
+        "nombre": "Carpe-Diem-Roma-roma-fuentes.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-desintegracion-occidente",
+      "coleccion": "roma",
+      "titulo": "Desintegración del Imperio romano de Occidente",
+      "descripcion": "Factores, crisis y transformaciones del mundo romano occidental.",
+      "alt": "Desintegración del Imperio romano de Occidente. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Infografía educativa · Composición ilustrada",
+      "etiquetas": [
+        "caída",
+        "Occidente",
+        "476",
+        "crisis"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/desintegracion-occidente.webp",
+      "miniatura": "infografias/roma/desintegracion-occidente-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/desintegracion-occidente.webp",
+        "nombre": "Carpe-Diem-Roma-desintegracion-occidente.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-marco-aurelio-ecuestre",
+      "coleccion": "roma",
+      "titulo": "Estatua ecuestre de Marco Aurelio",
+      "descripcion": "Ficha de galería sobre el retrato imperial ecuestre y su significado político.",
+      "alt": "Estatua ecuestre de Marco Aurelio. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Ficha de galería educativa · Composición ilustrada",
+      "etiquetas": [
+        "Marco Aurelio",
+        "escultura",
+        "arte"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/marco-aurelio-ecuestre.webp",
+      "miniatura": "infografias/roma/marco-aurelio-ecuestre-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/marco-aurelio-ecuestre.webp",
+        "nombre": "Carpe-Diem-Roma-marco-aurelio-ecuestre.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-ara-pacis",
+      "coleccion": "roma",
+      "titulo": "Ara Pacis Augustae",
+      "descripcion": "Ficha de galería del monumento augusteo y su lenguaje artístico.",
+      "alt": "Ara Pacis Augustae. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Ficha de galería educativa · Composición ilustrada",
+      "etiquetas": [
+        "Ara Pacis",
+        "Augusto",
+        "arte",
+        "relieve"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/ara-pacis.webp",
+      "miniatura": "infografias/roma/ara-pacis-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/ara-pacis.webp",
+        "nombre": "Carpe-Diem-Roma-ara-pacis.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-augusto-prima-porta",
+      "coleccion": "roma",
+      "titulo": "Augusto de Prima Porta",
+      "descripcion": "Ficha de galería sobre la imagen pública de Augusto.",
+      "alt": "Augusto de Prima Porta. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Ficha de galería educativa · Composición ilustrada",
+      "etiquetas": [
+        "Augusto",
+        "Prima Porta",
+        "escultura",
+        "arte"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/augusto-prima-porta.webp",
+      "miniatura": "infografias/roma/augusto-prima-porta-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/augusto-prima-porta.webp",
+        "nombre": "Carpe-Diem-Roma-augusto-prima-porta.webp"
+      },
+      "publicado": true
+    },
+    {
+      "id": "roma-vibia-sabina",
+      "coleccion": "roma",
+      "titulo": "Sabina imperial: Vibia Sabina",
+      "descripcion": "Ficha de galería sobre el retrato de una emperatriz y el poder dinástico.",
+      "alt": "Sabina imperial: Vibia Sabina. Material educativo original del docente con textos e ilustraciones.",
+      "tipo": "Ficha de galería educativa · Composición ilustrada",
+      "etiquetas": [
+        "Sabina",
+        "escultura",
+        "emperatriz",
+        "arte"
+      ],
+      "fecha": "2026-10-25",
+      "creditos": {
+        "autor": "Prof. Levi Yacob BenYamin · Historia con Levi | Carpe Diem",
+        "licencia": "Publicación autorizada por el docente · Sin licencia abierta declarada",
+        "fuente": "Material original proporcionado por el docente",
+        "nota": "Se conserva el contenido del archivo recibido. Las ilustraciones y composiciones tienen finalidad didáctica; no se presentan como fotografías documentales de la antigua Roma."
+      },
+      "imagen": "infografias/roma/vibia-sabina.webp",
+      "miniatura": "infografias/roma/vibia-sabina-mini.webp",
+      "descarga": {
+        "ruta": "infografias/roma/vibia-sabina.webp",
+        "nombre": "Carpe-Diem-Roma-vibia-sabina.webp"
+      },
+      "publicado": true
+    }
+  ]
 }
