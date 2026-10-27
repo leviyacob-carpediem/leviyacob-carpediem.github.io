@@ -113,6 +113,24 @@ document.addEventListener('DOMContentLoaded',()=>{
  grid.append(card);
 });
 </script>
+
+<!-- Integración exclusiva: exposición 11 · Circo Romano -->
+<style id="estilo-circo-romano">
+#exposicion-circo-romano{grid-column:1 / -1;min-height:420px;background:#102c41;text-decoration:none;border-color:#e9c583;padding-top:190px}
+#exposicion-circo-romano img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:-2}
+#exposicion-circo-romano h3{font-size:clamp(2rem,4vw,3rem)}
+#exposicion-circo-romano .circo-subtitle{color:#f7dfac;font:1.2rem Georgia,serif;margin:5px 0 10px}
+#exposicion-circo-romano p{max-width:750px;padding-right:18px}
+#exposicion-circo-romano .circo-credit{font-size:.7rem;color:#d6e1e9;margin-top:12px}
+</style>
+<script id="integracion-circo-romano">
+document.addEventListener('DOMContentLoaded',()=>{
+ const grid=document.querySelector('.collections');if(!grid||document.getElementById('exposicion-circo-romano'))return;
+ const card=document.createElement('a');card.id='exposicion-circo-romano';card.className='coll';card.href='circo-romano.html';
+ card.innerHTML=`<span class="top-tag">Exposición 11 · Destacada · Disponible</span><img src="assets/roma-premium/circus_panorama.webp" alt="Fotografía actual del Circo Máximo en Roma" width="1800" height="795" loading="lazy"><h3>El Circo Romano</h3><span class="circo-subtitle">Velocidad, espectáculo y poder.</span><p>Viaja al Circo Máximo de Roma, descubre las carreras de cuadrigas, conoce a los aurigas y participa en una emocionante simulación interactiva.</p><small class="circo-credit">Fotografía actual · Peter Clarke · Wikimedia Commons · CC BY-SA 3.0 · Copia WebP optimizada</small><span class="coll-arrow" aria-hidden="true">↗</span>`;
+ grid.append(card);
+});
+</script>
 </head>
 <body>
 <header class="head">
