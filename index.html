@@ -131,6 +131,25 @@ document.addEventListener('DOMContentLoaded',()=>{
  grid.append(card);
 });
 </script>
+<!-- Inicio: Integración de Antigua China · Exposición 12 -->
+<style id="estilo-antigua-china">
+#exposicion-china{min-height:340px;background:#14283b;text-decoration:none}
+#exposicion-china img.china-cover{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:-2}
+#exposicion-china:before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(0deg,#061522f4,#071b2c38)}
+#exposicion-china .top-tag{background:#061522c7;border:1px solid #efd19668;padding:5px 9px;border-radius:100px}
+</style>
+<script id="integracion-antigua-china">
+document.addEventListener('DOMContentLoaded',()=>{
+ const grid=document.querySelector('.collections');
+ if(!grid||document.getElementById('exposicion-china'))return;
+ const card=document.createElement('a');
+ card.id='exposicion-china';card.className='coll';card.href='antigua-china.html';
+ card.setAttribute('aria-label','Explorar la Antigua China en diez salas interactivas');
+ card.innerHTML='<img class="china-cover" src="assets/china-premium/portada.webp" alt="Recreación artística con IA de la Antigua China" loading="lazy"><span class="top-tag">Exposición 12 · Disponible</span><h3>Antigua China</h3><p>Imperios, dragones, la Gran Muralla y el Ejército de Terracota · Diez salas interactivas.</p><span class="coll-arrow">↗</span>';
+ grid.appendChild(card);
+});
+</script>
+<!-- Fin: Integración de Antigua China -->
 </head>
 <body>
 <header class="head">
